@@ -1,0 +1,2 @@
+#@shuangcherry/tiny
+[![npm (scoped)]]
